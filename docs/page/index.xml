@@ -1,3 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Scrum Training | Certified Scrum Master</title><link>https://scrumtraining.cn/page.html</link><description>Recent content in Pages on Scrum Training | Certified Scrum Master</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 04 Jun 2011 13:39:03 +0800</lastBuildDate><atom:link href="https://scrumtraining.cn/page/index.xml" rel="self" type="application/rss+xml"/><item><title>About us</title><link>https://scrumtraining.cn/about/</link><pubDate>Sat, 04 Jun 2011 13:39:03 +0800</pubDate><guid>https://scrumtraining.cn/about/</guid><description>About Scrum Training We focus on helping organizations/teams to transform their way of working to real Scrum.
-关于 Bob Jiang Please visit Bob Jiang Blog</description></item><item><title>Training</title><link>https://scrumtraining.cn/training/</link><pubDate>Sat, 04 Jun 2011 13:39:03 +0800</pubDate><guid>https://scrumtraining.cn/training/</guid><description>Trainings we offer We offer Scrum/Agile trainings as following:
-Advanced Certified Scrum Master - A-CSM Certified Scrum Product Owner - CSPO Certified Scrum Master - CSM Impact Mapping Management 3.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Scrum Training | Certified Scrum Master</title>
+    <link>https://scrumtraining.cn/page.html</link>
+    <description>Recent content in Pages on Scrum Training | Certified Scrum Master</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 04 Jun 2011 13:39:03 +0800</lastBuildDate>
+    
+	<atom:link href="https://scrumtraining.cn/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About us</title>
+      <link>https://scrumtraining.cn/about/</link>
+      <pubDate>Sat, 04 Jun 2011 13:39:03 +0800</pubDate>
+      
+      <guid>https://scrumtraining.cn/about/</guid>
+      <description>About Scrum Training We focus on helping organizations/teams to transform their way of working to real Scrum.
+关于 Bob Jiang Please visit Bob Jiang Blog</description>
+    </item>
+    
+    <item>
+      <title>Training</title>
+      <link>https://scrumtraining.cn/training/</link>
+      <pubDate>Sat, 04 Jun 2011 13:39:03 +0800</pubDate>
+      
+      <guid>https://scrumtraining.cn/training/</guid>
+      <description>Trainings we offer We offer Scrum/Agile trainings as following:
+ Advanced Certified Scrum Master - A-CSM Certified Scrum Product Owner - CSPO Certified Scrum Master - CSM Impact Mapping Management 3.</description>
+    </item>
+    
+  </channel>
+</rss>
