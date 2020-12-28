@@ -1,0 +1,112 @@
+baseURL = "https://scrumtraining.cn/"
+languageCode = "zh-cn"
+DefaultContentLanguage = "zh-cn"
+title = "Scrum Training | Certified Scrum Master"
+theme = "ezhil"
+uglyURLs = true
+enableRobotsTXT = true
+
+# Enable syntax highlighting.
+pygmentsstyle = "github"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+# Your Google analytics code.
+# googleAnalytics = "UA-36175470-1"
+# Your Disqus sortname.
+# disqusShortname = "localhost"
+
+# Number of posts to show in recent posts list (Optional). Defaults to 10.
+paginate = 10
+
+# Number of characters to show in summary.
+summaryLength = 20
+
+[params]
+    # 定义首页的description(在meta标签中，不宜太长，控制在100字以内)
+    description = "Scrum training CSM is a 2-day course where students learn how to use Scrum to optimize value, productivity and the total cost of product ownership. Tools are provided to enable students to relate to behavioral shifts, work with people and teams, coach and facilitate techniques, and address the organization."
+
+    # 定义ICP备案信息
+    icpLicense = ""
+
+    # Blog subtitle which appears below blog title. Supports markdown.
+    subtitle = "Agile training | Agile coaching"
+
+    # Content types which are included in home page recent posts list.
+    mainSections = ["posts"]
+
+    # Content types which are excludes Disqus comments.
+    disableDisqusTypes = ["page"]
+
+    # If social media links are enabled then enable this to fetch icons from CDN instead of hosted on your site.
+    featherIconsCDN = true
+
+    # Specify favicon (icons/i.png maps to static/icons/i.png). No favicon if not defined.
+    favicon = "/images/favicon.png"
+
+    # Switch to dark mode or auto detect mode from OS (Optional).
+    # "dark" will set mode to dark and "auto" will switch to dark mode if OS is in dark mode.
+    mode = "auto" # "dark" or "auto"
+
+    # Custom CSS added to default styles. Files added to `static` folder is copied as it is to
+    # root by Hugo. For example if you have custom CSS file under `static/css/custom.css` then
+    # you can specify custom css path as `css/custom.css`.
+    # customCSS = "css/custom.css"
+    # Custom CSS added to dark mode style.
+    # customDarkCSS = "css/custom-dark.css"
+
+    # Custom list of Javascript files to load. Just like custom CSS you can place js files under
+    # `static/js` folder and specify path here as `js/script-name.js`.
+    # customJS = ["js/abc.js", "js/xyz.js"]
+
+# Main menu which appears below site header.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Blog"
+url = "/posts.html"
+weight = 2
+
+[[menu.main]]
+name = "Training"
+url = "/training/"
+weight = 3
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 5
+
+# Social media links which shows up on site header.
+# Uses feather icons for icons. You can [search icon names from here](https://feathericons.com/).
+[[params.social]]
+name = "Youtube"
+icon = "youtube"
+url = "https://www.youtube.com/channel/UCY6l_ASrqbDks31hMFrtkYA"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/xinbaojiang/"
+
+[[params.social]]
+name = "Facebook"
+icon = "facebook"
+url = "https://www.facebook.com/jiangxb"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/bobjiang123"
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/bobjiang/bobjiang.com"
+
+# Enable tags.
+[taxonomies]
+   tag = "tags"
